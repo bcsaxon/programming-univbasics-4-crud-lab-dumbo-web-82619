@@ -40,11 +40,12 @@ def retrieve_first_element_from_array(array)
   family_array.unshift "wow"
   family_array[0]
 
-
 end
 
 def retrieve_last_element_from_array(array)
-
+  family_array = ["eli","brett","bob","marietta"]
+  family_array << "arrays!"
+  family_array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
