@@ -30,7 +30,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-
+  family_array = ["eli","brett","bob","marietta"]
+  
 end
 
 def retrieve_first_element_from_array(array)
