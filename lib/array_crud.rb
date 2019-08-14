@@ -1,7 +1,7 @@
 def create_an_empty_array
   []
 end
-
+ family = ["eli" , "brett" , "bob" , "marietta"]
 def create_an_array
 
 end
