@@ -36,6 +36,10 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
+  family_array = ["eli","brett","bob","marietta"]
+  family_array.unshift "wow"
+  family_array[0]
+
 
 end
 
