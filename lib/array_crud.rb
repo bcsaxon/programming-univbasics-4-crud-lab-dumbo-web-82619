@@ -8,12 +8,13 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  family_array = ["eli","brett","bob","marietta"]
-  << "debbie"
+  #family_array = ["eli","brett","bob","marietta"]
+  #<< "debbie"
 
 end
 
 def add_element_to_start_of_array(array, element)
+
 
 end
 
