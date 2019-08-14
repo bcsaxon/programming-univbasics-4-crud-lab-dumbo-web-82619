@@ -4,24 +4,21 @@ end
 
 def create_an_array
   family_array = ["eli","brett","bob","marietta"]
-
 end
 
 def add_element_to_end_of_array(array, element)
-
   family_array = ["eli","brett","bob","marietta"]
   family_array << "arrays!"
-
 end
 
 def add_element_to_start_of_array(array, element)
   family_array = ["eli","brett","bob","marietta"]
   family_array.unshift "wow"
-
 end
 
 def remove_element_from_end_of_array(array)
-
+  family_array = ["eli","brett","bob","marietta"]
+  family_array << "arrays!"
 end
 
 def remove_element_from_start_of_array(array)
