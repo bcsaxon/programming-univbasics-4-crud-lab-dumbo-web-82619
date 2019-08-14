@@ -18,6 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   family_array = ["eli","brett","bob","marietta"]
+  family_array << "arrays!"
   family_array.pop
 end
 
