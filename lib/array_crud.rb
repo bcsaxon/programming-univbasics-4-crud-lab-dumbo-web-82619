@@ -23,6 +23,9 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
+  family_array = ["eli","brett","bob","marietta"]
+  family_array.unshift "wow"
+  family_array.shift
 
 end
 
